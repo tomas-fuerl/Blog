@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "6.14.6"
+  },
   "author": "Tomas Fürl",
   "license": "GPL-3.0-or-later"
 }
