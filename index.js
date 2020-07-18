@@ -5,32 +5,58 @@ const fs = require('fs').promises;
 
 const host = 'localhost';
 const port = 8000;
-let indexFile;
 
 const requestListener = function(req, res) {
-  switch (req.url) {
-    case '/':
-      res.setHeader('Content-Type', 'text/html');
-      res.writeHead(200);
-      res.end(indexFile);
-      break;
-    default:
-      res.setHeader('Content-Type', 'text/html');
-      res.writeHead(404);
-      res.end('error');
-  }
+  fs.readFile(__dirname + req.url)
+      .then((contents) => {
+        switch (getFilecontent(req.url)) {
+          case 'json':
+            res.setHeader('Content-Type', 'application/json');
+            res.writeHead(200);
+            res.end(contents);
+            return;
+
+          case 'csv':
+            res.setHeader('Content-Type', 'text/csv');
+            res.writeHead(200);
+            res.end(contents);
+            return;
+
+          default:
+            res.setHeader('Content-Type', 'text/html');
+            res.writeHead(200);
+            res.end(contents);
+            return;
+        }
+      })
+      .catch((err) => {
+        res.writeHead(500);
+        res.end(err);
+        return;
+      });
 };
 
-const server = http.createServer(requestListener);
+/**
+ * Retuns the file extension for a path.
+ * If no extension can be found, returns "html".
+ * @param {string} path string of a path of a file.
+ * @return {string} string of the extension.
+ */
+function getFilecontent(path) {
+  let fileextension;
+  const lastindex = path.lastIndexOf('.');
+  switch (lastindex) {
+    case -1:
+      fileextension = 'html';
+      break;
+    default:
+      fileextansion = path.substring(lastindex + 1, path.length);
+      break;
+  }
+  return fileextension;
+}
 
-fs.readFile(__dirname + '/index.html')
-    .then((contents) => {
-      indexFile = contents;
-      server.listen(port, host, () => {
-        console.log(`Server is running on http://${host}:${port}`);
-      });
-    })
-    .catch((err) => {
-      console.error(`Could not read index.html file: ${err}`);
-      process.exit(1);
-    });
+const server = http.createServer(requestListener);
+server.listen(port, host, () => {
+  console.log(`Server is running on http://${host}:${port}`);
+});
