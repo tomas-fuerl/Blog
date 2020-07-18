@@ -2,10 +2,10 @@
   "name": "blog",
   "version": "1.0.0",
   "description": "personal blog with node backend",
-  "main": "serverstart.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node serverstart.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "6.14.6"
