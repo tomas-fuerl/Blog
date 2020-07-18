@@ -1,7 +1,6 @@
 {
 	"recommendations": [
 		"dbaeumer.vscode-eslint",
-		"felixfbecker.php-intellisense",
 		"ms-vscode.node-debug2"
 	]
 }
