@@ -1,11 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="/styles/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/all.min.css">
+    <title>Page not found</title>
+    <style>
+        /* Styles, so the Jumbotron is vertically centeresd*/
+        html,
+        body {
+            height: 100%
+        }
+    </style>
 </head>
+
 <body>
-    ERROR 404
+    <div class="container h-100">
+        <div class="row align-items-center h-100">
+            <div class="jumbotron w-100 text-center">
+                <h1 class="display-1"><i class="far fa-frown-open"></i> ERROR 404 <i class="far fa-frown-open"></i></h1>
+                <p class="lead">The Page you wanted to access isn't available.</p>
+                <div class="mt-5">
+                    <a class="btn btn-primary btn-lg w-100" href="/" role="button"><i class="fas fa-plane-arrival"></i> Landing Page</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
+
 </html>
