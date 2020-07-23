@@ -1,6 +1,17 @@
-const message = 'Hello World';
-console.log(message);
-let kuchen: string;
-kuchen = "useful";
-kuchen = "test";
-console.log(kuchen);
+class UserLanguage {
+    #language: string;
+
+    constructor() {
+        this.setLanguage ();
+    }
+    setLanguage () {
+        this.#language = "de-DE";
+    }
+    getLanguage () {
+        return this.#language;
+    }
+}
+
+const myLanguage = new UserLanguage();
+
+alert(myLanguage.getLanguage());
