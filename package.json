@@ -4,10 +4,11 @@
   "description": "personal blog with node backend",
   "main": "index.js",
   "scripts": {
-    "start": "npm i && npm run lint && npm run compile-ts && npm run init-server",
+    "start": "npm i && npm run lint-and-fix && npm run compile-ts && npm run init-server",
     "init-server": "node index.js",
     "compile-ts": "tsc",
-    "lint": "npx eslint . --ext .ts --fix"
+    "lint": "npx eslint . --ext .ts",
+    "lint-and-fix": "npx eslint . --ext .ts --fix"
   },
   "engines": {
     "node": "6.14.6"
