@@ -15,7 +15,7 @@
       "@typescript-eslint/eslint-plugin"
     ],
     "rules": {
-      "semi": [2, "never"],
+      "semi": [2, "always"],
       "quotes": [2, "single"],
       "space-before-function-paren": [2, "always"],
       "object-literal-sort-keys": [0],
