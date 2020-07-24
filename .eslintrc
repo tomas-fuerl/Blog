@@ -1,0 +1,50 @@
+{
+    "extends": [
+      "eslint:recommended",
+      "plugin:@typescript-eslint/recommended"
+    ],
+    "env": {
+      "browser": true
+    },
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+      "ecmaVersion": 2017,
+      "sourceType": "module"
+    },
+    "plugins": [
+      "@typescript-eslint/eslint-plugin"
+    ],
+    "rules": {
+      "semi": [2, "never"],
+      "quotes": [2, "single"],
+      "space-before-function-paren": [2, "always"],
+      "object-literal-sort-keys": [0],
+      "no-namespace": [0],
+      "no-var-requires": [0],
+      "quote-props": [2, "as-needed"],
+      "comma-dangle": ["error", {
+        "arrays": "always-multiline",
+        "objects": "always-multiline",
+        "imports": "always-multiline",
+        "exports": "always-multiline",
+        "functions": "always-multiline"
+      }],
+      "space-in-parens": [2, "never"],
+      "space-before-blocks": [2, "always"],
+      "keyword-spacing": [2, {"before": true, "after": true}],
+      "key-spacing": [2],
+      "rest-spread-spacing": [2, "never"],
+      "func-call-spacing": [2, "never"],
+      "comma-spacing": [2],
+      "indent": [2, 2, {
+        "SwitchCase": 1,
+        "MemberExpression": 1,
+        "FunctionDeclaration": {"body": 1, "parameters": 1},
+        "CallExpression": {"arguments": 1},
+        "ArrayExpression": 1,
+        "ObjectExpression": 1,
+        "ImportDeclaration": 1
+      }]
+    }
+  
+  }
