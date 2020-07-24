@@ -6,6 +6,6 @@
       "outDir": "public/scripts/"
     },
     "include": [
-        "private/scripts/*"
+        "src/*", "src/scripts/index.ts"
     ]
   }
