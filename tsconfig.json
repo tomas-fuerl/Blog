@@ -2,10 +2,9 @@
     "compilerOptions": {
       "target": "es2015",
       "module": "commonjs",
-      "sourceMap": true,
-      "outDir": "public/scripts/"
+      "sourceMap": true
     },
     "include": [
-        "src/*", "src/scripts/index.ts"
+        "./*", "public/scripts/index.ts"
     ]
   }
