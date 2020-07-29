@@ -20,7 +20,7 @@ app.use(
 
 /* serve the popper package */
 app.use(
-  express.static(__dirname + '/node_modules/@popperjs/core/'),
+  express.static(__dirname + '/node_modules/@popperjs/core/dist/umd'),
 );
 
 /* serve the jquery package */
