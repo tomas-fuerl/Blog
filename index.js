@@ -33,6 +33,11 @@ app.use(
   express.static(__dirname + '/node_modules/bootstrap/dist/'),
 );
 
+/* serve content */
+app.use(
+  express.static(__dirname + '/content'),
+);
+
 /* serve the error page */
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 app.use(function (req, res, next) {
