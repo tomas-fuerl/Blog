@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="234.577"
-   height="79.896004"
-   viewBox="0 0 62.065164 21.139161"
+   width="218.17101"
+   height="40"
+   viewBox="0 0 57.724412 10.583338"
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="Logo_Fuerl_Online_wide.svg">
+   sodipodi:docname="Logo_Fuerl_Online_wide2.svg">
   <defs
      id="defs2">
     <rect
@@ -39,8 +39,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0112602"
-     inkscape:cx="121.04631"
-     inkscape:cy="75.032571"
+     inkscape:cx="112.0967"
+     inkscape:cy="46.19493"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,43 +78,34 @@
        id="text20"
        style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
-       transform="scale(1.0004268,0.99957341)"
+       transform="scale(1.0004268,0.99957339)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5879px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.203175"
-       x="-0.84702516"
-       y="8.2161446"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.05180000000000007px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a70032;fill-opacity:1;stroke:none;stroke-width:0.203175;"
+       x="-0.80413383"
+       y="7.8000989"
        id="text18"
-       inkscape:transform-center-x="-0.36714363"
-       inkscape:transform-center-y="0.13505343"><tspan
+       inkscape:transform-center-x="-0.34867531"
+       inkscape:transform-center-y="0.12819907"><tspan
          sodipodi:role="line"
          id="tspan16"
-         x="-0.84702516"
-         y="8.2161446"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5879px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.203175">Fuerl-Online</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a70032;fill-opacity:1;stroke:none;stroke-width:0.23278"
-       x="3.5620227"
-       y="20.160015"
-       id="text857"><tspan
-         sodipodi:role="line"
-         id="tspan855"
-         x="3.5620227"
-         y="20.160015"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a70032;fill-opacity:1;stroke-width:0.23278">Projekte von mir - hier</tspan></text>
+         x="-0.80413383"
+         y="7.8000989"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.05180000000000007px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a70032;stroke-width:0.203175;fill-opacity:1;"><tspan
+   style="fill:#a70032;fill-opacity:1;"
+   id="tspan848">Fuerl</tspan> Online</tspan></text>
     <rect
-       y="11.906253"
-       x="0"
+       y="9.2604189"
+       x="25.135422"
        height="1.322917"
-       width="62.011734"
+       width="32.589001"
        id="rect941"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.133086;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
        style="fill:#a70032;fill-opacity:1;fill-rule:evenodd;stroke-width:0.133086;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect941-8"
-       width="15.875004"
+       width="25.135422"
        height="1.322917"
-       x="9.0949474e-16"
-       y="11.906253" />
+       x="1.4400333e-15"
+       y="9.2604189" />
   </g>
 </svg>
