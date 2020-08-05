@@ -7,52 +7,52 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="218.17101"
-   height="40"
-   viewBox="0 0 57.724412 10.583338"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="Logo_Fuerl_Online_wide.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="Logo_Fuerl_Online_wide2.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 57.724412 10.583338"
+   height="40"
+   width="218.17101">
   <defs
      id="defs2">
     <rect
-       x="123.22024"
-       y="50.648811"
-       width="102.05357"
+       id="rect22"
        height="46.113094"
-       id="rect22" />
+       width="102.05357"
+       y="50.648811"
+       x="123.22024" />
     <rect
-       x="32.505951"
-       y="75.595238"
-       width="130.77975"
+       id="rect12"
        height="18.898809"
-       id="rect12" />
+       width="130.77975"
+       y="75.595238"
+       x="32.505951" />
   </defs>
   <sodipodi:namedview
-     inkscape:snap-bbox="true"
-     inkscape:snap-object-midpoints="true"
-     id="base"
-     pagecolor="#444444"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.0112602"
-     inkscape:cx="112.0967"
-     inkscape:cy="46.19493"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:snap-text-baseline="true"
-     units="px"
-     inkscape:window-width="1440"
-     inkscape:window-height="797"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     width="28in"
      inkscape:window-maximized="1"
-     width="28in" />
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="797"
+     inkscape:window-width="1440"
+     units="px"
+     inkscape:snap-text-baseline="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="46.19493"
+     inkscape:cx="116.57151"
+     inkscape:zoom="2.0112602"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#444444"
+     id="base"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -66,46 +66,46 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Ebene 1">
     <text
-       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';white-space:pre;shape-inside:url(#rect12);fill:#000000;fill-opacity:1;stroke:none;"
        id="text10"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';white-space:pre;shape-inside:url(#rect12);fill:#000000;fill-opacity:1;stroke:none;" />
+       xml:space="preserve" />
     <text
-       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22);fill:#000000;fill-opacity:1;stroke:none;"
        id="text20"
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22);fill:#000000;fill-opacity:1;stroke:none;" />
+       xml:space="preserve" />
     <text
-       transform="scale(1.0004268,0.99957339)"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.05180000000000007px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a70032;fill-opacity:1;stroke:none;stroke-width:0.203175;"
-       x="-0.80413383"
-       y="7.8000989"
-       id="text18"
+       inkscape:transform-center-y="0.12819907"
        inkscape:transform-center-x="-0.34867531"
-       inkscape:transform-center-y="0.12819907"><tspan
-         sodipodi:role="line"
-         id="tspan16"
-         x="-0.80413383"
+       id="text18"
+       y="7.8000989"
+       x="-0.80413383"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.05180000000000007px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a70032;fill-opacity:1;stroke:none;stroke-width:0.203175;"
+       xml:space="preserve"
+       transform="scale(1.0004268,0.99957339)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.05180000000000007px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a70032;stroke-width:0.203175;fill-opacity:1;"
          y="7.8000989"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.05180000000000007px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a70032;stroke-width:0.203175;fill-opacity:1;"><tspan
-   style="fill:#a70032;fill-opacity:1;"
-   id="tspan848">Fuerl</tspan> Online</tspan></text>
+         x="-0.80413383"
+         id="tspan16"
+         sodipodi:role="line"><tspan
+   id="tspan848"
+   style="fill:#a70032;fill-opacity:1;">Fuerl</tspan> Online</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.133086;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect941"
+       width="38.482948"
+       height="1.322917"
+       x="19.241474"
+       y="9.2604189" />
     <rect
        y="9.2604189"
-       x="25.135422"
+       x="1.1023632e-15"
        height="1.322917"
-       width="32.589001"
-       id="rect941"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.133086;stroke-miterlimit:4;stroke-dasharray:none" />
-    <rect
-       style="fill:#a70032;fill-opacity:1;fill-rule:evenodd;stroke-width:0.133086;stroke-miterlimit:4;stroke-dasharray:none"
+       width="19.241474"
        id="rect941-8"
-       width="25.135422"
-       height="1.322917"
-       x="1.4400333e-15"
-       y="9.2604189" />
+       style="fill:#a70032;fill-opacity:1;fill-rule:evenodd;stroke-width:0.133086;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>
